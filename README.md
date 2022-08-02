@@ -10,7 +10,7 @@ A Password Manager using the power of the blockchain to securely store your pass
 
 ## Requirements Phase 1
 
-### SmarContract
+### SmartContract
 
 - add yourself to a vault
   - this implies storing a private key (encrypted) and public key inside the vault
