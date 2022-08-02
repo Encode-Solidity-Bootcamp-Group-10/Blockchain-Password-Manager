@@ -28,3 +28,5 @@ A Password Manager using the power of the blockchain to securely store your pass
 - Extract public key from generated key pair
 - Extract private key from generated key pair
 - Encrypted version of private key (¿with Metamask?)
+
+![image](https://user-images.githubusercontent.com/1956176/182427604-b34d72e7-8cae-4a1c-a891-8f3a60846e4b.png)
