@@ -30,4 +30,6 @@ A Password Manager using the power of the blockchain to securely store your pass
 - Encrypted version of private key (¿with Metamask?)
 
 ## General Arquitecture Diagram
+![image](https://user-images.githubusercontent.com/1956176/182430902-be32f77b-146c-4c89-b46f-4b7dddb22615.png)
+
 ![image](https://user-images.githubusercontent.com/1956176/182427604-b34d72e7-8cae-4a1c-a891-8f3a60846e4b.png)
